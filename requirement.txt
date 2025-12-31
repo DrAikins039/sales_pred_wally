@@ -2,8 +2,9 @@ streamlit
 pandas
 numpy
 scikit-learn
-plotly.express
+plotly
 xgboost
 lightgbm
+
 
 
